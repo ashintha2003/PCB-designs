@@ -1,8 +1,10 @@
-## PCB Designs
+# PCB Designs and Dot Board Design
 
 Below are some of the PCB layouts I have designed as part of various projects. In addition to the design and layout work, I also performed **hand soldering** for assembling the components, which gave me practical experience in both hardware design and fabrication.
 
-## PCB layout of few circuits 
+## PCB Designs
+
+### PCB layout of a few circuits 
 
 <table>
   <tr>
@@ -19,7 +21,7 @@ Below are some of the PCB layouts I have designed as part of various projects. I
   </tr>
 </table>
 
-## Videos of PCB assembly 
+### Videos of PCB assembly 
 
 <table>
   <tr>
@@ -27,6 +29,39 @@ Below are some of the PCB layouts I have designed as part of various projects. I
     <td><img src="https://github.com/user-attachments/assets/8a3de5e6-8641-4f40-861d-aba2e888fb2e" width="300"></td>
   </tr>
 </table>
+
+### PCB 
+
+![Screenshot 2025-05-25 004644](https://github.com/user-attachments/assets/c1d144c0-1043-478e-ac8c-8be2b002cb05)
+![Screenshot 2025-05-25 004748](https://github.com/user-attachments/assets/de57c004-68e1-4ff5-b807-5e27ea4f8299)
+![Screenshot 2024-09-11 132002](https://github.com/user-attachments/assets/08e8b211-7bf2-480b-a649-59760071cbfd)
+
+## Dot Board Designs
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7449b03b-eb5b-4b65-b6f6-b2b86b712dae" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/9c4f56bf-e1b9-40c2-8e2f-4aacb33f12ae" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/5b819522-8368-4b31-8ce5-ec7341ffd4b5" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/210fc507-3661-4af7-a57c-fd0c5d8fb111" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/4d3851f3-81dd-4805-a870-1de5172cc3b7" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/7d385444-09c9-42d5-884d-1ddacb604109" width="250"></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
