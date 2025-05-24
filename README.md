@@ -8,7 +8,6 @@ Below are some of the PCB layouts I have personally designed as part of various 
   <tr>
     <td><img src="https://github.com/user-attachments/assets/e31503ec-87e6-4435-9e22-8dfbcb83bd42" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/5215fed8-79e7-4816-92a1-10d7c11c0b70" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/527a818e-5004-4e23-bf9a-04d9823c2a6e" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/b5d7ab16-14f7-4247-96d8-a07cea804569" width="200"></td>
   </tr>
   <tr>
