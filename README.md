@@ -25,6 +25,11 @@ Below are some of the PCB layouts I have personally designed as part of various 
   </tr>
 </table>
 
+## videos of PCB assembly 
+
+
+
+
 
 
 
