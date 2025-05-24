@@ -3,7 +3,6 @@
 Below are some of the PCB layouts I have personally designed as part of various projects. In addition to the design and layout work, I also performed **hand soldering** for assembling the components, which gave me practical experience in both hardware design and fabrication.
 
 ## PCB layout of few circuits 
-## PCB Gallery
 
 <table>
   <tr>
